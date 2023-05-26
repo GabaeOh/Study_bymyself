@@ -1,18 +1,9 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ ## 코딩테스트
+ - VS Code 다운로드하고 설치
+ - VS Code 확장팩 설치
+ ## 백준(BAEKJOON)
+ | 문제번호 | 작성소스 | 설명 | 사용언어 |
+ | --- | --- | --- | --- |
+ | Print | Main.java | 화면에 문자 출력 |  |
+ | if문 | [Ifs.java](./src/Ifs.java) | 조건에 따라 분기  |if(){}; |
+ ## JAVA 연습문제
