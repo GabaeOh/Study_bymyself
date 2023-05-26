@@ -20,17 +20,17 @@ public class Gugudan {
             mynum = mynum + 1;
         } 
 
-        //모든 구구단 (진행중)
-        int num = 2;
-        int mynum = 1;
-        while(mynum < 9 ){
-            System.out.println((num * mynum));
-            mynum = mynum + 1;
-            while ( num < 9) {
-                System.out.println();
+        // //모든 구구단 (진행중)
+        // int num = 2;
+        // int mynum = 1;
+        // while(mynum < 9 ){
+        //     System.out.println((num * mynum));
+        //     mynum = mynum + 1;
+        //     while ( num < 9) {
+        //         System.out.println();
 
-            }
-        } 
+        //     }
+        // } 
     }
     
 }
