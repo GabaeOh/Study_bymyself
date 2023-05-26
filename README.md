@@ -4,6 +4,8 @@
  ## 백준(BAEKJOON)
  | 문제번호 | 작성소스 | 설명 | 사용언어 |
  | --- | --- | --- | --- |
- | Print | Main.java | 화면에 문자 출력 |  |
- | if문 | [Ifs.java](./src/Ifs.java) | 조건에 따라 분기  |if(){}; |
+ | 2557번 | [B_2557](./src/B_2557.java) | 출력 사용 | JAVA |
+ | 10998번 | [B_10998](./src/B_10998.java) | 곱하기 사용 | JAVA |
+ | 1008번 | [B_1008](./src/B_1008.java) | 나누기 사용 | JAVA |
+ | 10926번 | [B_10926](./src/B_10926.java) | scanner 사용 | JAVA |
  ## JAVA 연습문제
