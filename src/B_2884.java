@@ -9,7 +9,19 @@ public class B_2884 {
         int H = myObj.nextInt();
         int M = myObj.nextInt();
 
-        
+        if( M < 15 ){
+            System.out.print(H-1);
+            System.out.print(M+60-45);
+        }
+        else if( M > 15 ){
+            System.out.print(H);
+            System.out.print(M-45);
+        }
+
+        else if (H == 0){
+            System.out.println(23);
+            System.out.println(M-45);
+        }
        
     }
 }
