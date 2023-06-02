@@ -10,29 +10,22 @@ public class B_2525 {
         Scanner myObj = new Scanner(System.in);
 
         // 변수 선언
-        int A = myObj.nextInt();
-        int B = myObj.nextInt();
-        int C = myObj.nextInt();
+        int hour = myObj.nextInt();
+        int min = myObj.nextInt();
+        int oven_hour = myObj.nextInt();
 
-        B = B + C;
+        min = min + oven_hour;
 
-        // '분' 조건 맞추기
-        if (B > 60) {
-            B = B - 60;
-            A = A + 1;
-            if (B == 60) {
-                B = 0;
-                A = A + 1;
-            }
-        } else if (B == 60) {
-            B = 0;
-            A = A + 1;
+        if(min > 60 ){
+            hour = hour + (min / 60);
+            min = min % 60; 
         }
 
-        if (A == 24) {
-            A = 0;
+        if (hour >= 24) {
+            hour = hour % 24; //hour = hour - 24;
         }
-        System.out.println(A + " " + B);
+
+        System.out.println(hour + " " + min);
 
         myObj.close();
     }
