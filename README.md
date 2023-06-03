@@ -21,6 +21,8 @@
  | 2753번| [B_2753](./src/B_2753.java) | If 조건 | JAVA |
  | 14681번| [B_14681](./src/B_14681.java) | If 이중 조건 | JAVA |
  | 2884번| [B_2884](./src/B_2884.java) | if, else 문 | JAVA |
+ | 2525번| [B_2525](./src/B_2525.java) |몫, 나머지 활용| JAVA |
+ | 2480번| [B_2480](./src/B_2480.java) |IF, ELSE IF 활용| JAVA |
  JAVA |
  | --- | --- | --- | --- |
  

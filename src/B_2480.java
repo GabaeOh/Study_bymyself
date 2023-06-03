@@ -12,26 +12,29 @@ public class B_2480 {
         int A = myObj.nextInt();
         int B = myObj.nextInt();
         int C = myObj.nextInt();
+        int award = 0;
 
-        B = B + C;
-
-        // '분' 조건 맞추기
-        if (B > 60 ) {
-            B = B - 60;
-            A = A + 1;
-            if (B == 60) {
-                B = 0;
-                A = A + 1;
+        // 같은 눈이 3개일 경우
+        if (A == B && B == C && A==C) {
+            award = 10000 + A * 1000;
+            // 같은 눈이 2개일 경우
+        } else if (A == B || B == C || A == C) {
+            if (A == B) {
+                award = 1000 + A * 100;
+            } else {
+                award = 1000 + C * 100;
             }
-        } else if (B == 60) {
-            B = 0;
-            A = A + 1;
+            // 모두 다른 눈일 경우
+        } else {
+            if (A > B && A > C) {
+                award = A * 100;
+            } else if (B > A && B > C) {
+                award = B * 100;
+            } else{
+                award = C * 100;
+            }
         }
-
-        if (A == 24) {
-            A = 0;
-        }
-        System.out.println(A + " " + B);
+        System.out.println(award);
 
         myObj.close();
     }

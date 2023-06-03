@@ -16,13 +16,13 @@ public class B_2525 {
 
         min = min + oven_hour;
 
-        if(min > 60 ){
-            hour = hour + (min / 60);
-            min = min % 60; 
+        if (min >= 60) {
+            hour = hour + (min / 60); // 몫
+            min = min % 60; // 나머지
         }
 
         if (hour >= 24) {
-            hour = hour % 24; //hour = hour - 24;
+            hour = hour % 24; // hour = hour - 24;
         }
 
         System.out.println(hour + " " + min);
