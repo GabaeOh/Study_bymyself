@@ -11,5 +11,8 @@ public class B_10171 {
         System.out.println(" )  ( \')"); // 작은 따옴표(') 출력방법 : \'
         System.out.println("(  /  )");
         System.out.println(" \\(__)|");
+
+        myObj.close();
     }
+
 }

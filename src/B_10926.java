@@ -8,5 +8,8 @@ public class B_10926 {
         Scanner myObj = new Scanner(System.in);
         String id = myObj.nextLine();
         System.out.println(id +"??!" );
+
+
+        myObj.close();
         }
     }

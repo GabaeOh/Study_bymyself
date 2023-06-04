@@ -14,5 +14,6 @@ public class B_18108 {
         int year = myObj.nextInt();
 
         System.out.println(year - 543);
+        myObj.close();
     }
 }

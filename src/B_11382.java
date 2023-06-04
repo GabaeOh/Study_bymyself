@@ -12,5 +12,6 @@ public class B_11382 {
         long C = myObj.nextLong();
 
         System.out.println(A + B + C);
+        myObj.close();
     }
 }

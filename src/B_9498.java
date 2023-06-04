@@ -20,5 +20,6 @@ public class B_9498 {
         } else {
             System.out.println("F");
         }
+        myObj.close();
     }
 }

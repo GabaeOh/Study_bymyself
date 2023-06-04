@@ -23,6 +23,7 @@
  | 2884번| [B_2884](./src/B_2884.java) | if, else 문 | JAVA |
  | 2525번| [B_2525](./src/B_2525.java) |몫, 나머지 활용| JAVA |
  | 2480번| [B_2480](./src/B_2480.java) |IF, ELSE IF 활용| JAVA |
+ | 2739번| [B_2739](./src/B_2739.java) |for문 활용| JAVA |
  JAVA |
  | --- | --- | --- | --- |
  

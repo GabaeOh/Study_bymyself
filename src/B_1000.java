@@ -12,5 +12,6 @@ public class B_1000 {
         B = myObj.nextInt();
 
         System.out.println(A + B);
+        myObj.close();
     }
 }

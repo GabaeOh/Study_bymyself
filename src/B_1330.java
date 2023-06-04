@@ -16,5 +16,6 @@ public class B_1330 {
         } else {
             System.out.println("==");
         }
+        myObj.close();
     }
 }

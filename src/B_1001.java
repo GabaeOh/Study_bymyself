@@ -1,4 +1,5 @@
-import java.util.Scanner; 
+import java.util.Scanner;
+
 public class B_1001 {
     public static void main(String[] args) {
         // refer : https://www.acmicpc.net/problem/1001
@@ -7,9 +8,10 @@ public class B_1001 {
 
         int A = 0;
         int B = 0;
-        A = myObj.nextInt(); 
+        A = myObj.nextInt();
         B = myObj.nextInt();
 
         System.out.println(A - B);
+        myObj.close();
     }
 }
