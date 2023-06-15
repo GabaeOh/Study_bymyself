@@ -30,3 +30,7 @@
  ## 프로그래머스 코딩테스트
  | 문제번호 | 작성소스 | 설명 | 사용언어 |
  | --- | --- | --- | --- |
+ | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [P_Pricebygroup](./src/PROGRAMMERS/P_Pricebygroup.sql) | TRUNCATE함수를 이용하여 GROUP BY  | SQL |
+ | [상품별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | [P_Sumbyprice](./src/PROGRAMMERS/P_Sumbyprice.sql) | 조인을 통해 곱하여 합계를 구하기 | SQL |
+ | [재구매가 일어난 상품과 회원 리스트 구하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | [P_GroupByDuplicate](./src/PROGRAMMERS/P_GroupByDuplicate.sql) | 중복된 값 select | SQL |
+  | [진료과별 총 예약횟수 출력하기 ](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [P_Countbygroup](./src/PROGRAMMERS/P_Countbygroup.sql) | 특정 달에 진료한 환자수 group by  | SQL |
