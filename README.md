@@ -35,5 +35,8 @@
  | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) | [P_GroupByDuplicate](./src/PROGRAMMERS/P_GroupByDuplicate.sql) | 중복된 값 select | SQL |
  | [진료과별 총 예약횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [P_Countbygroup](./src/PROGRAMMERS/P_Countbygroup.sql) | 특정 달에 진료한 환자수 group by  | SQL |
  | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | [P_TotalOrder](./src/PROGRAMMERS/P_TotalOrder.sql) | SUM과 Group by  | SQL |
-| [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | [P_Join](./src/PROGRAMMERS/P_Join.sql) | 조건에 맞는값 JOIN을 이용해서 출력 | SQL |
-| [자동차 종류별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | [P_GroupbyCar](./src/PROGRAMMERS/P_GroupbyCar.sql) | 조건에 맞는값을 LIKE와 OR을 활용하여 구하기 | SQL |
+ | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | [P_Join](./src/PROGRAMMERS/P_Join.sql) | 조건에 맞는값 JOIN을 이용해서 출력 | SQL |
+ | [자동차 종류별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | [P_GroupbyCar](./src/PROGRAMMERS/P_GroupbyCar.sql) | 조건에 맞는값을 LIKE와 OR을 활용하여 구하기 | SQL |
+ | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [P_Date](./src/PROGRAMMERS/P_Date.sql) | DATEDIFF을 사용하여 날짜사이의 일수 차이 계산 | SQL |
+ | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL) | DATEDIFF을 사용 및 조건 부여 | SQL |
+ | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | [P_CASE](./src/PROGRAMMERS/P_CASE.sql) | CASE WHEN을 사용하여 조건 부합하기 | SQL |
