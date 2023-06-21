@@ -40,3 +40,7 @@
  | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [P_Date](./src/PROGRAMMERS/P_Date.sql) | DATEDIFF을 사용하여 날짜사이의 일수 차이 계산 | SQL |
  | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL) | DATEDIFF을 사용 및 조건 부여 | SQL |
  | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | [P_CASE](./src/PROGRAMMERS/P_CASE.sql) | CASE WHEN을 사용하여 조건 부합하기 | SQL |
+ | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | [P_LeftJoin](./src/PROGRAMMERS/P_LeftJoin.sql) | left join 사용 | SQL |
+ | [있었는데요 없었습니다.](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | [P_LeftJoin2](./src/PROGRAMMERS/P_LeftJoin2.sql) | left join 사용 | SQL |
+ | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | [P_Join_null](./src/PROGRAMMERS/P_Join_null.sql)| join 활용 및 교집합 부분 빼기 | SQL |
+  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL)| Datediff날짜 값의 차이를 비교해주는 함수  | SQL |
