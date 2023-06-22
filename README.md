@@ -43,4 +43,5 @@
  | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | [P_LeftJoin](./src/PROGRAMMERS/P_LeftJoin.sql) | left join 사용 | SQL |
  | [있었는데요 없었습니다.](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | [P_LeftJoin2](./src/PROGRAMMERS/P_LeftJoin2.sql) | left join 사용 | SQL |
  | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | [P_Join_null](./src/PROGRAMMERS/P_Join_null.sql)| join 활용 및 교집합 부분 빼기 | SQL |
-  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL)| Datediff날짜 값의 차이를 비교해주는 함수  | SQL |
+ | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL)| Datediff날짜 값의 차이를 비교해주는 함수  | SQL |
+ | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | [P_DATEIFF](./src/PROGRAMMERS/P_WhereIn.sql)| 서브쿼리 사용 | SQL |
