@@ -45,3 +45,4 @@
  | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | [P_Join_null](./src/PROGRAMMERS/P_Join_null.sql)| join 활용 및 교집합 부분 빼기 | SQL |
  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL)| Datediff날짜 값의 차이를 비교해주는 함수  | SQL |
  | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | [P_DATEIFF](./src/PROGRAMMERS/P_WhereIn.sql)| 서브쿼리 사용 | SQL |
+ | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | [P_CaseWhen](./src/PROGRAMMERS/P_CaseWhen.sql)| case when 활용 | SQL |
