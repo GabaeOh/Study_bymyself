@@ -46,3 +46,5 @@
  | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [P_DATEIFF](./src/PROGRAMMERS/P_DATEIFF.SQL)| Datediff날짜 값의 차이를 비교해주는 함수  | SQL |
  | [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | [P_DATEIFF](./src/PROGRAMMERS/P_WhereIn.sql)| 서브쿼리 사용 | SQL |
  | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | [P_CaseWhen](./src/PROGRAMMERS/P_CaseWhen.sql)| case when 활용 | SQL |
+ | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [P_Groupbysum](./src/PROGRAMMERS/P_Groupbysum.sql)| GROUP BY와 INNER JOIN | SQL |
+ | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | [P_Casegroupby](./src/PROGRAMMERS/P_Casegroupby.sql)| CASE WHEN을 활용 | SQL |
