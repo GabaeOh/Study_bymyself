@@ -49,3 +49,5 @@
  | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [P_Groupbysum](./src/PROGRAMMERS/P_Groupbysum.sql)| GROUP BY와 INNER JOIN | SQL |
  | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | [P_Casegroupby](./src/PROGRAMMERS/P_Casegroupby.sql)| CASE WHEN을 활용 | SQL |
  | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [P_DISTINCT](./src/PROGRAMMERS/P_DISTINCT.sql)| 중복제거인 distinct 활용 | SQL |
+ | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [P_CONCAT](./src/PROGRAMMERS/P_CONCAT.sql)| CONCAT 활용, HAVING 조건에 COUNT| SQL |
+ 
