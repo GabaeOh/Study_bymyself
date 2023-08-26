@@ -50,4 +50,5 @@
  | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340) | [P_Casegroupby](./src/PROGRAMMERS/P_Casegroupby.sql)| CASE WHEN을 활용 | SQL |
  | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [P_DISTINCT](./src/PROGRAMMERS/P_DISTINCT.sql)| 중복제거인 distinct 활용 | SQL |
  | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [P_CONCAT](./src/PROGRAMMERS/P_CONCAT.sql)| CONCAT 활용, HAVING 조건에 COUNT| SQL |
- 
+ | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | [P_SubQuery](./src/PROGRAMMERS/P_SubQuery.sql)| CONCAT 활용, 서브쿼리 사용| SQL |
+ | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | [P_where_having](./src/PROGRAMMERS/P_where_having.sql)| where, having 조건부여 | SQL |
