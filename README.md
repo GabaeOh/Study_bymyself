@@ -51,4 +51,5 @@
  | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [P_DISTINCT](./src/PROGRAMMERS/P_DISTINCT.sql)| 중복제거인 distinct 활용 | SQL |
  | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [P_CONCAT](./src/PROGRAMMERS/P_CONCAT.sql)| CONCAT 활용, HAVING 조건에 COUNT| SQL |
  | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | [P_SubQuery](./src/PROGRAMMERS/P_SubQuery.sql)| CONCAT 활용, 서브쿼리 사용| SQL |
- | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | [P_where_having](./src/PROGRAMMERS/P_where_having.sql)| where, having 조건부여 | SQL |
+ | [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) | [P_regexp](./src/PROGRAMMERS/P_regexp.sql)| 정규표현식을 활용하여 where절 조건 부여| SQL |
+ | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413) | [P_WITH_RECURSIVE](./src/PROGRAMMERS/P_WITH_RECURSIVE.sql)| WITH 활용, RECURSIVE를 통해 반복적으로 수행되는 작업 진행, 시간만 추출| SQL |
